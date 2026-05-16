@@ -1,0 +1,6 @@
+{
+  "name": "Grand Lecture",
+  "description": "Poetic Heritage Jewelry - A luxury experience of heirloom craftsmanship and contemporary vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
